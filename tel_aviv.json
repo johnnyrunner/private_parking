@@ -1,0 +1,1021 @@
+{
+  "Name": "Root",
+  "sub_areas": [
+    {
+      "Name": "Central",
+      "sub_areas": [
+        {
+          "Name": "HaTzafonHaYashan",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "Shabazi",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "NeveTzedek",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "OhelMoshe",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "GivatAmalBet",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "TzamarotAyalon",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "KeremHatemanim",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "Montefiore",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "YehudaHaMaccabi",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Northwest",
+      "sub_areas": [
+        {
+          "Name": "RamatAviv",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "AzoreiHen",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "KokhavHaTzafon",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "ShikunLamed",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "MigdaleiNeeman",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "NofeiYam",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "NeveAvivim",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "RamatAvivAleph",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "RamatAvivGimmel",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "RamatAvivHaHadasha",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "NorthEast",
+      "sub_areas": [
+        {
+          "Name": "GaneiTzahala",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "HaMishtalah",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "HadarYosef",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "MaozAviv",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "NeotAfeka",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "NeveSharret",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "RamatHaHayal",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "RamotTzahala",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "Revivim",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "ShikunDan",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+                {
+          "Name": "Tzahala",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+                {
+          "Name": "Yisgav",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+                {
+          "Name": "KiryatAtidim",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Southwest",
+      "sub_areas": [
+        {
+          "Name": "OldJaffa",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "YafoC",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "GivatHaTmarim",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "Ajami",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "Tzahalon",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "GivatAliyah",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "South",
+      "sub_areas": [
+        {
+          "Name": "Florentin",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "NeveShaanan",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "NeveOfer",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "KiryatShalom",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "Shapira",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "GivatHerzl",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "AbuKabir",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "AmricanGermenColony",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Southeast",
+      "sub_areas": [
+        {
+          "Name": "NahalatYitzhak",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "Bitzaron",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "RamatYisrael",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "TelHaim",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "YadEliyahu",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "RamatHaTayasim",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "NeveTzahal",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "KfarShalem",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "HaArgazim",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "Hatikva",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "NeveBarbur",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        },
+        {
+          "Name": "Ezra",
+          "sub_areas": [
+            {
+              "Name": "one",
+              "sub_areas": []
+            },
+            {
+              "Name": "two",
+              "sub_areas": []
+            },
+            {
+              "Name": "three",
+              "sub_areas": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
