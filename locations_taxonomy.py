@@ -3,7 +3,7 @@ import random
 from anytree import Node, LevelOrderIter, PreOrderIter
 import json
 
-TelAviv_json_dir = 'C:\\Users\\USER\\PycharmProjects\\privacy_parking\\tel_aviv.json'
+TelAviv_json_dir = 'tel_aviv.json'
 
 
 class Location:
